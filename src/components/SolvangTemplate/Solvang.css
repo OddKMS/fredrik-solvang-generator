@@ -1,0 +1,106 @@
+.dh-frontmodul-solvang-v1-app-HiXL4 {
+  --darkreader-bg--profilbg-color: #4c0d00;
+  --darkreader-text--profilnavn-color: #90c4f3;
+  --darkreader-text--profiltittel-color: #90c4f3;
+  --darkreader-bg--contentbg-color: #0a2b56;
+  --darkreader-text--contentintro-color: #ffbdaf;
+  --darkreader-text--contenttitle-color: #c0e1ff;
+  --darkreader-text--ctatext-color: #c0e1ff;
+  --darkreader-bg--ctabg-color: #1252a5;
+
+  --profilbg-color: #ffddd6;
+  --profilnavn-color: #0c366c;
+  --profiltittel-color: #0c366c;
+  --contentbg-color: #0c366c;
+  --contentintro-color: #ffddd6;
+  --contenttitle-color: #eef5ff;
+  --ctatext-color: #eef5ff;
+  --ctabg-color: #1767ce;
+
+  --bilde-boks-bredde: 40%;
+  --innhold-boks-bredde: 60%;
+
+  text-rendering: optimizelegibility;
+  --bilde-boks-bredde: 40%;
+  --innhold-boks-bredde: 60%;
+  align-items: stretch;
+  display: flex;
+  flex-direction: row;
+  font-family: NRK Sans Variable, sans-serif;
+  font-variation-settings: var(--nrk-sans-condensed);
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+
+.dh-frontmodul-solvang-v1-profil-ZGAoo {
+  width: var(--bilde-boks-bredde);
+  box-sizing: border-box;
+}
+
+.dh-frontmodul-solvang-v1-content-Y_Zvw {
+  background-color: var(--darkreader-bg--contentbg-color);
+}
+
+.dh-frontmodul-solvang-v1-content-Y_Zvw {
+  align-items: flex-start;
+  background-color: var(--contentbg-color);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 1rem;
+  width: var(--innhold-boks-bredde);
+}
+
+.dh-frontmodul-solvang-v1-content-Y_Zvw p {
+  text-decoration-color: currentcolor;
+}
+
+.dh-frontmodul-solvang-v1-content-Y_Zvw p {
+  text-decoration: none;
+}
+
+.dh-frontmodul-solvang-v1-intro-jS_77 {
+  color: var(--darkreader-text--contentintro-color);
+}
+
+.dh-frontmodul-solvang-v1-intro-jS_77 {
+  color: var(--contentintro-color);
+  font-size: 0.9375rem;
+  font-weight: 890;
+}
+
+.dh-frontmodul-solvang-v1-intro-jS_77,
+.dh-frontmodul-solvang-v1-title-NCKQE {
+  margin: 0;
+}
+
+.dh-frontmodul-solvang-v1-title-NCKQE {
+  color: var(--darkreader-text--contenttitle-color);
+}
+
+.dh-frontmodul-solvang-v1-title-NCKQE {
+  color: var(--contenttitle-color);
+  font-size: 1.375rem;
+  font-weight: 560;
+  line-height: 1.625rem;
+  margin: 1rem 0 1.625rem;
+}
+
+.dh-frontmodul-solvang-v1-cta-TJxaH {
+  background-color: var(--darkreader-bg--ctabg-color);
+  color: var(--darkreader-text--ctatext-color);
+  text-decoration-color: currentcolor;
+}
+
+.dh-frontmodul-solvang-v1-cta-TJxaH {
+  background-color: var(--ctabg-color);
+  border-radius: 100px;
+  color: var(--ctatext-color);
+  font-size: 1rem;
+  font-weight: 560;
+  line-height: 1.5rem;
+  padding: 0.375rem 1.5rem;
+  text-align: center;
+  text-decoration: none;
+}
