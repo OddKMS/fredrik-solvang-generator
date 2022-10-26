@@ -1,54 +1,32 @@
 <p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
+  <a href="https://www.nrk.no/fredriksolvang/">
+    <img alt="Fredrik Solvang" src="src/images/icon.png" width="60" />
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal TypeScript starter
+  Fredrik Solvang Meme Generator
 </h1>
 
-## 🚀 Quick start
+## Hva synes du?
 
-1.  **Create a Gatsby site.**
+1.  **Skriv inn et spørsmål**
 
-    Use the Gatsby CLI to create a new site, specifying the minimal TypeScript starter.
+    Jo vagere, jo bedre.
 
-    ```shell
-    # create a new Gatsby site using the minimal TypeScript starter
-    npm init gatsby
-    ```
-
-2.  **Start developing.**
-
-    Navigate into your new site’s directory and start it up.
+    Under finner du et utvalg ekte overskrifts-spørsmål:
 
     ```shell
-    cd my-gatsby-site/
-    npm run develop
+    Hva skjer hvis du slutter å si det du mener?
+    Gir fillers god helse?
+    Er russetiden for alle?
+    Har Norge blitt EUs energitrell?
     ```
 
-3.  **Open the code and start customizing!**
+2.  **Inkluder et navn**
 
-    Your site is now running at http://localhost:8000!
+    Orker ikke? La feltet være blankt for et "Hei, du" eller trykk på knappen for et tilfeldig ett!
 
-    Edit `src/pages/index.tsx` to see your site update in real-time!
+3.  **Diskuter her!**
 
-4.  **Learn more**
-
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-
-## 🚀 Quick start (Gatsby Cloud)
-
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal-ts)
+    Til slutt, skriv inn teksten du vil ha på knappen.
+    La feltet være blankt for en forhåndsutvalgt anmodning.
