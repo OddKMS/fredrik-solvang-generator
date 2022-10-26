@@ -1,4 +1,5 @@
 import React from "react";
+import { SolvangNoytral } from "@images";
 import "./Solvang.css";
 
 const SolvangTemplate = () => {
@@ -6,10 +7,7 @@ const SolvangTemplate = () => {
     <div>
       <div className="dh-frontmodul-solvang-v1-profil-ZGAoo">
         <figure>
-          <img
-            src="https://static.nrk.no/dh/module/frontmodul-solvang/static/media/fredrik_noytralVjj4F.png"
-            alt="Fredrik Solvang som ser nøytral ut"
-          />
+          <SolvangNoytral />
           <figcaption>
             <span>Fredrik Solvang</span>
             <span>Programleder i Debatten</span>
